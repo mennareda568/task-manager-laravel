@@ -20,10 +20,8 @@ Installation Guide:
 
 *Create a database with name tasks
 
-4_php artisan migrate
+4_Upload .env and connect it with database
 
-5_Upload .env and connect it with database
+5_php artisan migrate
 
 6_php artisan serve
-
-==============================
